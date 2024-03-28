@@ -1,5 +1,5 @@
 ```
-wget go1.22.1.linux-amd64.tar.gz
+wget https://golang.org/dl/go1.22.1.linux-amd64.tar.gz
 ```
 
 ```
